@@ -4,24 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffdfdbce-1901-4f76-ba42-b7bd04c5b3f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/AppTest.java" afterDir="false" />
+    <list default="true" id="ffdfdbce-1901-4f76-ba42-b7bd04c5b3f8" name="Changes" comment="Dec-1 st">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/APITEst002_BuilderDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/APITest001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/APITesting_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/API_Test_BDD_Style_get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/API_Test_Non_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_NonBDD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_get.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dhivya1905"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dhivya1905/APIAutomation.git",
+    "accountId": "5f939902-8221-40a6-ac8d-6d128d504c4e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -35,12 +57,105 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.APITest001.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.API_Test_BDD_Style_get.test_get_response_Neagtive.executor": "Run",
+    "TestNG.API_Test_BDD_Style_get.test_get_response_Negative.executor": "Run",
+    "TestNG.API_Test_BDD_Style_get.test_get_response_Postive.executor": "Run",
+    "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng.xml.executor": "Run",
+    "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml.executor": "Run",
+    "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_get.xml.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dhivy/IdeaProjects/APIAutomation",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhivy\IdeaProjects\APIAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml">
+    <configuration name="API_Test_BDD_Style_get.test_get_response_Neagtive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.API_Test_BDD_Style_get" />
+      <option name="METHOD_NAME" value="test_get_response_Neagtive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="API_Test_BDD_Style_get.test_get_response_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.API_Test_BDD_Style_get" />
+      <option name="METHOD_NAME" value="test_get_response_Negative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_NonBDD.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng_get.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_get.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml" />
+        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_get.xml" />
+        <item itemvalue="TestNG.API_Test_BDD_Style_get.test_get_response_Negative" />
+        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng.xml" />
+        <item itemvalue="TestNG.API_Test_BDD_Style_get.test_get_response_Neagtive" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +165,34 @@
       <option name="presentableId" value="Default" />
       <updated>1733050665597</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dec-1 st">
+      <option name="closed" value="true" />
+      <created>1733051164626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733051164626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dec-1 st" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dec-1 st" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/API_Test_BDD_Style_get.java</url>
+          <line>26</line>
+          <properties class="com.testingacademy.API_Test_BDD_Style_get" method="test_get_response_Neagtive">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
