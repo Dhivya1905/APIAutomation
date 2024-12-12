@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdfdbce-1901-4f76-ba42-b7bd04c5b3f8" name="Changes" comment="Dec-1 st">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/APITEst002_BuilderDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/APITest001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/APITesting_TestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/API_Test_BDD_Style_get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/API_Test_Non_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_NonBDD.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_get.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/API_Testing_Post_NonBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/API_Testing_Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/API_Testing_Integration_Scenario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/API_Testing_Integration_Scenario2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/API_Testing_Integration_Scenario3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/API_Testing_Integration_Scenario4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/API_Testing_Scenario2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/Integration_Scenario2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/Integration_Scenario3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Put/APITesting_Put_NonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_Integration_Scenario.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -32,21 +35,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dhivya1905"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dhivya1905&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dhivya1905/APIAutomation.git",
-    "accountId": "5f939902-8221-40a6-ac8d-6d128d504c4e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dhivya1905/APIAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;5f939902-8221-40a6-ac8d-6d128d504c4e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pc1gTBKQLBDznFIGqqTTjVBrKJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -62,12 +65,27 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.APITesting_Put_NonBDDStyle.executor": "Run",
     "TestNG.API_Test_BDD_Style_get.test_get_response_Neagtive.executor": "Run",
     "TestNG.API_Test_BDD_Style_get.test_get_response_Negative.executor": "Run",
     "TestNG.API_Test_BDD_Style_get.test_get_response_Postive.executor": "Run",
+    "TestNG.API_Test_Non_BDD_Style.test_non_BDD_Style_get_Positive.executor": "Run",
+    "TestNG.API_Test_Non_BDD_Style.test_non_BDD_Style_get_negative.executor": "Run",
+    "TestNG.API_Testing_Integration_Sceanario.executor": "Run",
+    "TestNG.API_Testing_Integration_Sceanario.test_update_request_delete.executor": "Run",
+    "TestNG.API_Testing_Integration_Sceanario.test_update_request_put.executor": "Run",
+    "TestNG.API_Testing_Integration_Scenario.executor": "Run",
+    "TestNG.API_Testing_Integration_Scenario3.executor": "Run",
+    "TestNG.API_Testing_Integration_Scenario4.executor": "Run",
+    "TestNG.API_Testing_Post.test__BDD_Style_Post.executor": "Run",
+    "TestNG.API_Testing_Scenario2.executor": "Run",
+    "TestNG.API_Testng_Integration_Scenario4.executor": "Run",
     "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng.xml.executor": "Run",
+    "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_Integration_Scenario.xml.executor": "Run",
     "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml.executor": "Run",
     "TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_get.xml.executor": "Run",
+    "TestNG.Integration_Scenario2.executor": "Run",
+    "TestNG.hgsfghj.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/dhivy/IdeaProjects/APIAutomation",
@@ -79,8 +97,8 @@
       <recent name="C:\Users\dhivy\IdeaProjects\APIAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml">
-    <configuration name="API_Test_BDD_Style_get.test_get_response_Neagtive" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_Integration_Scenario.xml">
+    <configuration name="API_Test_Non_BDD_Style.test_non_BDD_Style_get_negative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomation" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +107,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.testingacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.API_Test_BDD_Style_get" />
-      <option name="METHOD_NAME" value="test_get_response_Neagtive" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.API_Test_Non_BDD_Style" />
+      <option name="METHOD_NAME" value="test_non_BDD_Style_get_negative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,17 +116,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="API_Test_BDD_Style_get.test_get_response_Negative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="API_Testing_Integration_Scenario" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.*" />
+          <option name="PATTERN" value="com.testingacademy.Integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.API_Test_BDD_Style_get" />
-      <option name="METHOD_NAME" value="test_get_response_Negative" />
+      <option name="PACKAGE_NAME" value="com.testingacademy.Integration" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.Integration.API_Testing_Integration_Scenario" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="API_Testing_Integration_Scenario3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.Integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.Integration" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.Integration.API_Testing_Integration_Scenario3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="API_Testing_Integration_Scenario.test_update_request_delete" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.Integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.Integration" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.Integration.API_Testing_Integration_Scenario" />
+      <option name="METHOD_NAME" value="test_update_request_delete" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -116,29 +168,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng_Integration_Scenario.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_NonBDD.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng_get.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_get.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/dhivy/IdeaProjects/APIAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Integration_Scenario.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -148,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_NonBDD.xml" />
-        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_get.xml" />
-        <item itemvalue="TestNG.API_Test_BDD_Style_get.test_get_response_Negative" />
-        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng.xml" />
-        <item itemvalue="TestNG.API_Test_BDD_Style_get.test_get_response_Neagtive" />
+        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/APIAutomation/testng_Integration_Scenario.xml" />
+        <item itemvalue="TestNG.API_Testing_Integration_Scenario3" />
+        <item itemvalue="TestNG.API_Test_Non_BDD_Style.test_non_BDD_Style_get_negative" />
+        <item itemvalue="TestNG.API_Testing_Integration_Scenario" />
+        <item itemvalue="TestNG.API_Testing_Integration_Scenario.test_update_request_delete" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733051164626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dec-1 st">
+      <option name="closed" value="true" />
+      <created>1733063781933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733063781933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +231,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/Integration/API_Testing_Integration_Scenario.java</url>
+          <line>122</line>
+          <properties class="com.testingacademy.Integration.API_Testing_Integration_Scenario" method="test_delete_request">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
